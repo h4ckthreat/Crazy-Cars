@@ -1,2 +1,2 @@
-# Crazy-Cars
-Jogo de corrida Crazy Cars escrito em linguagem C
+# Campo-Minado
+Jogo campo minado escrito em c com níveis de dificuldade.
