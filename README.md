@@ -1,2 +1,2 @@
-# Campo-Minado
-Jogo campo minado escrito em c com níveis de dificuldade.
+# <i> Crazy Cars. </i> 🏎️
+# <i> Jogo campo minado com níveis de dificuldade. </i> 🕹️
