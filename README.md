@@ -1,2 +1,2 @@
 # <i> Crazy Cars. </i> 🏎️
-# <i> Jogo campo minado com níveis de dificuldade. </i> 🕹️
+# <i> Jogo de corrida crazy cars </i> 🕹️
